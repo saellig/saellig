@@ -8,7 +8,7 @@ I'm currently working on [Aurora Virtual](https://auroravirtual.co.uk) - we're a
 
 ## ⚡️ Experience
 
-As a Front-End Web Developer with occasional dabbles into Back-End development, my expertise lies in creating visually appealing and user-friendly web interfaces. I am dedicated to merging creativity and functionality to transform design concepts into fully operational websites. My passion for aesthetics and user experience motivates me to craft digital solutions that harmoniously combine form and function, ensuring each project stands out as a masterpiece in the digital landscape.
+As a Front-End Web Developer with occasional *dabbles* into Back-End development, my expertise lies in creating visually appealing and user-friendly web interfaces. I am dedicated to merging creativity and functionality to transform design concepts into fully operational websites. My passion for aesthetics and user experience motivates me to craft digital solutions that harmoniously combine form and function, ensuring each project stands out as a masterpiece in the digital landscape.
 
 ## 📫 Contact
 
