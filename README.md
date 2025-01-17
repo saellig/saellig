@@ -1,10 +1,10 @@
 ### Hey, I'm Sam 👋
 
-I'm a 16 year old developer.
+I'm a 17 year old developer.
 
 ## 🔭 Current
 
-I'm currently working on [Aurora Virtual](https://auroravirtual.co.uk) - we're a dynamic group of passionate individuals dedicated to redefining your music listening experience. With an unwavering commitment to innovation, our team has meticulously crafted the next best music player application. :)
+I'm currently working on [???](https://comingsoon.com) - :)
 
 ## ⚡️ Experience
 
