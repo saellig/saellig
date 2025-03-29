@@ -4,7 +4,7 @@ I'm a 17 year old developer.
 
 ## 🔭 Current
 
-I'm currently working on [???](https://comingsoon.com) - :)
+I'm currently working on [Overt™](https://overtbot.com) This is the latest evolution of our tracking system, redesigned to offer a clean, intuitive, and efficient experience for LEO Supervisors and Full-Time Staff. Overt has been built with simplicity and ease of use at its core, providing a seamless way to manage your shit with minimal effort. Whether you’re a supervisor or a full-time staff member, Overt is here to help you stay on top of your duties.
 
 ## ⚡️ Experience
 
@@ -17,5 +17,4 @@ To contact me quickly and easily, [DM me on Twitter](https://twitter.com/samuela
 If it is a more professional enquiry, you can also email me:
 
 **General Inquiries:** sam@saellig.dev
-**Blog Inquiries:** sam@samcodes.net
-**AV-related Inquiries:** sam@auroravirtual.co.uk
+**Overt-related Inquiries:** sam@overtbot.com
